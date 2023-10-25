@@ -1,0 +1,110 @@
+#table img {
+    max-width: 50px;
+
+}
+.p
+{
+    text-align: center;
+    margin: 1%;
+}
+.contenedor1form {
+    text-align: center; 
+    margin: 150px;
+}
+.form-group input, .form-group select, .form-group textarea {
+    width: 100%; 
+}
+.btn-primary {
+    background-color: #6200ff;
+    border-color: #fdfdfd; 
+    width: 100%;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fff;
+    margin: 70px;
+}
+
+/* Estilos para las celdas de la tabla */
+td {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+/* Estilos específicos para el logo */
+#logo img {
+    max-width: 200px;
+    height: auto;
+}
+
+/* Estilos para los títulos */
+h1, h2 {
+    color: #333;
+
+}
+
+/* Estilos para los párrafos */
+p {
+    color: #000000;
+    margin: 79px;
+    
+}
+
+.dropdown {
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    vertical-align: middle; /* Para alinear con otras palabras */
+}
+
+.label {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.arrow-down {
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #000; /* Flecha hacia abajo */
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    min-width: 160px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #333;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #f2f2f2;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.portadacft{
+    width: 100%;
+    max-height: 300px;
+}
+.custom-select {
+    width: 100%; 
+}
+#formulario_contacto{
+    width: 25%;
+    margin: 0 auto;
+    text-align: left;
+}
+
